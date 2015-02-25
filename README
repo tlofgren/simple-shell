@@ -1,0 +1,19 @@
+Tyler Lofgren
+simple-shell
+README
+Last edited on 2/24/15
+
+This readme file is intended to be zipped with the following files:
+	- simpleShell.cpp
+	- makefile
+
+Compatibility
+-------------
+The C++ source files should be run in GCC 4.8 or higher with the included makefile.
+
+Compiling
+----------
+This shell was designed to be run in Linux.
+Use the following Makefile commands:
+	make all: compiles source into executable simpleShell
+	make clean: removes simpleShell
